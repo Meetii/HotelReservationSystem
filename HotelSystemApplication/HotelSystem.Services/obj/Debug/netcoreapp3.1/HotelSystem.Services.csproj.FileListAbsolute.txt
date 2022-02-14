@@ -1,0 +1,14 @@
+C:\Users\meti-\Desktop\Integrirani Sistemi\HotelProject\HotelSystemApplication\HotelSystem.Services\bin\Debug\netcoreapp3.1\HotelSystem.Services.deps.json
+C:\Users\meti-\Desktop\Integrirani Sistemi\HotelProject\HotelSystemApplication\HotelSystem.Services\bin\Debug\netcoreapp3.1\HotelSystem.Services.dll
+C:\Users\meti-\Desktop\Integrirani Sistemi\HotelProject\HotelSystemApplication\HotelSystem.Services\bin\Debug\netcoreapp3.1\HotelSystem.Services.pdb
+C:\Users\meti-\Desktop\Integrirani Sistemi\HotelProject\HotelSystemApplication\HotelSystem.Services\bin\Debug\netcoreapp3.1\HotelSystem.Domain.dll
+C:\Users\meti-\Desktop\Integrirani Sistemi\HotelProject\HotelSystemApplication\HotelSystem.Services\bin\Debug\netcoreapp3.1\HotelSystem.Repository.dll
+C:\Users\meti-\Desktop\Integrirani Sistemi\HotelProject\HotelSystemApplication\HotelSystem.Services\bin\Debug\netcoreapp3.1\HotelSystem.Domain.pdb
+C:\Users\meti-\Desktop\Integrirani Sistemi\HotelProject\HotelSystemApplication\HotelSystem.Services\bin\Debug\netcoreapp3.1\HotelSystem.Repository.pdb
+C:\Users\meti-\Desktop\Integrirani Sistemi\HotelProject\HotelSystemApplication\HotelSystem.Services\obj\Debug\netcoreapp3.1\HotelSystem.Services.csproj.AssemblyReference.cache
+C:\Users\meti-\Desktop\Integrirani Sistemi\HotelProject\HotelSystemApplication\HotelSystem.Services\obj\Debug\netcoreapp3.1\HotelSystem.Services.AssemblyInfoInputs.cache
+C:\Users\meti-\Desktop\Integrirani Sistemi\HotelProject\HotelSystemApplication\HotelSystem.Services\obj\Debug\netcoreapp3.1\HotelSystem.Services.AssemblyInfo.cs
+C:\Users\meti-\Desktop\Integrirani Sistemi\HotelProject\HotelSystemApplication\HotelSystem.Services\obj\Debug\netcoreapp3.1\HotelSystem.Services.csproj.CoreCompileInputs.cache
+C:\Users\meti-\Desktop\Integrirani Sistemi\HotelProject\HotelSystemApplication\HotelSystem.Services\obj\Debug\netcoreapp3.1\HotelSystem.Services.csproj.CopyComplete
+C:\Users\meti-\Desktop\Integrirani Sistemi\HotelProject\HotelSystemApplication\HotelSystem.Services\obj\Debug\netcoreapp3.1\HotelSystem.Services.dll
+C:\Users\meti-\Desktop\Integrirani Sistemi\HotelProject\HotelSystemApplication\HotelSystem.Services\obj\Debug\netcoreapp3.1\HotelSystem.Services.pdb

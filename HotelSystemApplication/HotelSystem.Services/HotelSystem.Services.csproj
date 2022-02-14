@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HotelSystem.Domain\HotelSystem.Domain.csproj" />
+    <ProjectReference Include="..\HotelSystem.Repository\HotelSystem.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

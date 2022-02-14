@@ -1,0 +1,12 @@
+C:\Users\meti-\Desktop\Integrirani Sistemi\HotelProject\HotelSystemApplication\HotelSystem.Repository\bin\Debug\netcoreapp3.1\HotelSystem.Repository.deps.json
+C:\Users\meti-\Desktop\Integrirani Sistemi\HotelProject\HotelSystemApplication\HotelSystem.Repository\bin\Debug\netcoreapp3.1\HotelSystem.Repository.dll
+C:\Users\meti-\Desktop\Integrirani Sistemi\HotelProject\HotelSystemApplication\HotelSystem.Repository\bin\Debug\netcoreapp3.1\HotelSystem.Repository.pdb
+C:\Users\meti-\Desktop\Integrirani Sistemi\HotelProject\HotelSystemApplication\HotelSystem.Repository\bin\Debug\netcoreapp3.1\HotelSystem.Domain.dll
+C:\Users\meti-\Desktop\Integrirani Sistemi\HotelProject\HotelSystemApplication\HotelSystem.Repository\bin\Debug\netcoreapp3.1\HotelSystem.Domain.pdb
+C:\Users\meti-\Desktop\Integrirani Sistemi\HotelProject\HotelSystemApplication\HotelSystem.Repository\obj\Debug\netcoreapp3.1\HotelSystem.Repository.csproj.AssemblyReference.cache
+C:\Users\meti-\Desktop\Integrirani Sistemi\HotelProject\HotelSystemApplication\HotelSystem.Repository\obj\Debug\netcoreapp3.1\HotelSystem.Repository.AssemblyInfoInputs.cache
+C:\Users\meti-\Desktop\Integrirani Sistemi\HotelProject\HotelSystemApplication\HotelSystem.Repository\obj\Debug\netcoreapp3.1\HotelSystem.Repository.AssemblyInfo.cs
+C:\Users\meti-\Desktop\Integrirani Sistemi\HotelProject\HotelSystemApplication\HotelSystem.Repository\obj\Debug\netcoreapp3.1\HotelSystem.Repository.csproj.CoreCompileInputs.cache
+C:\Users\meti-\Desktop\Integrirani Sistemi\HotelProject\HotelSystemApplication\HotelSystem.Repository\obj\Debug\netcoreapp3.1\HotelSystem.Repository.csproj.CopyComplete
+C:\Users\meti-\Desktop\Integrirani Sistemi\HotelProject\HotelSystemApplication\HotelSystem.Repository\obj\Debug\netcoreapp3.1\HotelSystem.Repository.dll
+C:\Users\meti-\Desktop\Integrirani Sistemi\HotelProject\HotelSystemApplication\HotelSystem.Repository\obj\Debug\netcoreapp3.1\HotelSystem.Repository.pdb
