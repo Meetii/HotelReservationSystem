@@ -177,3 +177,7 @@ C:\Users\meti-\Desktop\Integrirani Sistemi\HotelProject\HotelSystemApplication\H
 C:\Users\meti-\Desktop\Integrirani Sistemi\HotelProject\HotelSystemApplication\HotelSystem.Web\bin\Debug\netcoreapp3.1\HotelSystem.Domain.pdb
 C:\Users\meti-\Desktop\Integrirani Sistemi\HotelProject\HotelSystemApplication\HotelSystem.Web\bin\Debug\netcoreapp3.1\HotelSystem.Repository.pdb
 C:\Users\meti-\Desktop\Integrirani Sistemi\HotelProject\HotelSystemApplication\HotelSystem.Web\bin\Debug\netcoreapp3.1\HotelSystem.Services.pdb
+C:\Users\meti-\Desktop\Integrirani Sistemi\HotelProject\HotelSystemApplication\HotelSystem.Web\bin\Debug\netcoreapp3.1\nlog.config
+C:\Users\meti-\Desktop\Integrirani Sistemi\HotelProject\HotelSystemApplication\HotelSystem.Web\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\meti-\Desktop\Integrirani Sistemi\HotelProject\HotelSystemApplication\HotelSystem.Web\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\meti-\Desktop\Integrirani Sistemi\HotelProject\HotelSystemApplication\HotelSystem.Web\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll

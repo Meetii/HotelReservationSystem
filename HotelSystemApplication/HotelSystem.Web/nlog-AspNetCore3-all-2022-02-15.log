@@ -1,0 +1,11 @@
+2022-02-15 23:44:20.7798|0|DEBUG|HotelSystem.Web.Program|init main 
+2022-02-15 23:44:22.3774|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-02-15 23:44:22.3774|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-02-15 23:44:22.4028|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\meti-\Desktop\Integrirani Sistemi\HotelProject\HotelSystemApplication\HotelSystem.Web 
+2022-02-15 23:50:46.5592|0|DEBUG|HotelSystem.Web.Program|init main 
+2022-02-15 23:50:47.7294|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-02-15 23:50:47.7559|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-02-15 23:50:47.7639|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\meti-\Desktop\Integrirani Sistemi\HotelProject\HotelSystemApplication\HotelSystem.Web 
+2022-02-15 23:50:50.6266|0|INFO|HotelSystem.Services.Implementation.HotelService|GetAllHotels was called:) 
+2022-02-15 23:51:49.9277|0|INFO|HotelSystem.Services.Implementation.HotelService|Hotel was successfully added into ReservationCart 
+2022-02-15 23:51:49.9388|0|INFO|HotelSystem.Services.Implementation.HotelService|GetAllHotels was called:) 

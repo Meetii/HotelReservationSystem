@@ -30,8 +30,8 @@ namespace HotelSystem.Repository
                 .Property(z => z.Id)
                 .ValueGeneratedOnAdd();
 
-            builder.Entity<HotelInReservationCart>()
-                .HasKey(z => new { z.HotelId, z.ReservationCartId });
+         /*   builder.Entity<HotelInReservationCart>()
+                .HasKey(z => new { z.HotelId, z.ReservationCartId });*/
 
             builder.Entity<HotelInReservationCart>()
                 .HasOne(z => z.Hotel)
@@ -48,8 +48,8 @@ namespace HotelSystem.Repository
                 .WithOne(z => z.UserCart)
                 .HasForeignKey<ReservationCart>(z => z.OwnerId);
 
-            builder.Entity<HotelInOrder>()
-                .HasKey(z => new { z.HotelId, z.OrderId });
+          /*  builder.Entity<HotelInOrder>()
+                .HasKey(z => new { z.HotelId, z.OrderId })*/;
 
             builder.Entity<HotelInOrder>()
                 .HasOne(z => z.SelectedHotel)

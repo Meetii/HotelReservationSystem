@@ -2,6 +2,7 @@
 using HotelSystem.Domain.DTO;
 using HotelSystem.Repository.Interface;
 using HotelSystem.Services.Interface;
+using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,11 +16,13 @@ namespace HotelSystem.Services.Implementation
         private readonly IRepository<Hotel> _hotelRepository;
         private readonly IRepository<HotelInReservationCart> _hotelInReservationCartRepository;
         private readonly IUserRepository _userRepository;
-        public HotelService(IRepository<Hotel> hotelRepository, IUserRepository userRepository, IRepository<HotelInReservationCart> hotelInReservationCartRepository)
+        private readonly ILogger<HotelService> _logger;
+        public HotelService(IRepository<Hotel> hotelRepository, ILogger<HotelService> logger, IUserRepository userRepository, IRepository<HotelInReservationCart> hotelInReservationCartRepository)
         {
             _hotelRepository = hotelRepository;
             _userRepository = userRepository;
             _hotelInReservationCartRepository = hotelInReservationCartRepository;
+            _logger = logger;
         }
 
         public bool AddToHotelCart(AddToHotelCartDto item, string userID)
@@ -38,6 +41,7 @@ namespace HotelSystem.Services.Implementation
                 {
                     HotelInReservationCart itemToAdd = new HotelInReservationCart
                     {
+                        //Id = Guid.NewGuid(),
                         Hotel = hotel,
                         HotelId = hotel.Id,
                         ReservationCart = userHotelCard,
@@ -47,11 +51,13 @@ namespace HotelSystem.Services.Implementation
                     };
 
                     this._hotelInReservationCartRepository.Insert(itemToAdd);
+                    _logger.LogInformation("Hotel was successfully added into ReservationCart");
                     return true;
                    
                 }
                 return false; 
             };
+            _logger.LogInformation("Something isn't right. HotelId or UserReservationCart amay be unavailable");
             return false;
         }
 
@@ -68,6 +74,7 @@ namespace HotelSystem.Services.Implementation
 
         public List<Hotel> GetAllHotels()
         {
+            _logger.LogInformation("GetAllHotels was called:)");
             return this._hotelRepository.GetAll().ToList();
         }
 

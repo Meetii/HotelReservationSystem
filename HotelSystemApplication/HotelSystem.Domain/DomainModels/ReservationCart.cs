@@ -8,7 +8,7 @@ namespace HotelSystem.Domain.DomainModels
 {
     public class ReservationCart : BaseEntity
     {
-      // public Guid Id { get; set; }
+      //  public Guid Id { get; set; }
       //  public DateTime checkIn { get; set; }
       //  public DateTime checkout { get; set; }
         public string OwnerId { get; set; }

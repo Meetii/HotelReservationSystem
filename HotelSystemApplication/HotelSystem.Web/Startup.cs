@@ -42,6 +42,7 @@ namespace HotelSystem.Web
             services.AddScoped(typeof(IUserRepository), typeof(UserRepository));
 
             services.AddTransient<IHotelService, HotelService>();
+            services.AddTransient<IReservationCartService, ReservationCartService>();
 
             services.AddControllersWithViews();
             services.AddRazorPages();
